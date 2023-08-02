@@ -1,0 +1,28 @@
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\bin\Debug\028_2_WindowsForms.exe.config
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\bin\Debug\028_2_WindowsForms.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\bin\Debug\028_2_WindowsForms.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.BelirtiTespitForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.HosgeldinForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.KoronavirusTespitForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.Properties.Resources.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.YardimForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.YuzdeTespitForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms_Corona.csproj.GenerateResource.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms_Corona.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms_Corona.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\bin\Debug\028_2_WindowsForms.exe.config
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\bin\Debug\028_2_WindowsForms.exe
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\bin\Debug\028_2_WindowsForms.pdb
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms_Corona.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.BelirtiTespitForm.resources
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.HosgeldinForm.resources
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.KoronavirusTespitForm.resources
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.Properties.Resources.resources
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.YardimForm.resources
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\_028_2_WindowsForms.YuzdeTespitForm.resources
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms_Corona.csproj.GenerateResource.cache
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms_Corona.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms.exe
+C:\Users\user\Desktop\028_2_WindowsForms_Corona\obj\Debug\028_2_WindowsForms.pdb

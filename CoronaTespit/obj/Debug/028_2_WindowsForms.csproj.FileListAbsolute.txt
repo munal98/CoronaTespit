@@ -1,0 +1,14 @@
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\028_2_WindowsForms.csprojAssemblyReference.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\_028_2_WindowsForms.KoronavirusTespitForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\_028_2_WindowsForms.Properties.Resources.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\_028_2_WindowsForms.YardimForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\028_2_WindowsForms.csproj.GenerateResource.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\028_2_WindowsForms.csproj.CoreCompileInputs.cache
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\bin\Debug\028_2_WindowsForms.exe.config
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\bin\Debug\028_2_WindowsForms.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\bin\Debug\028_2_WindowsForms.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\028_2_WindowsForms.exe
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\028_2_WindowsForms.pdb
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\_028_2_WindowsForms.BelirtiTespitForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\_028_2_WindowsForms.YuzdeTespitForm.resources
+D:\BilgeAdam\MyLectures\1) Microsoft SQL Server 2017 Querying\027_SqlAdoNetWindowsFormsCourse\028_2_WindowsForms\obj\Debug\_028_2_WindowsForms.HosgeldinForm.resources
